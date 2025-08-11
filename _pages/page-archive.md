@@ -9,4 +9,6 @@ This is an example page. It's different from a blog post because it will stay in
 
 > Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
 
-...or something like this:
+...or something like this: 
+
+[Link to a page]({{ site.baseurl }}{% link _pages/page-archive2.md %})
