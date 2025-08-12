@@ -1,5 +1,5 @@
 ---
 title: "Posts by Year"
-permalink: /year-archive/
+permalink: /year_archive/
 layout: posts
 ---
