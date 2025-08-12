@@ -8,6 +8,11 @@ layout: single
 
 # precision  
 
+# tricoder  
+
+# icu-patch 
+    - omics data analysis 
+
 # R-man
 
 

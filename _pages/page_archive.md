@@ -52,3 +52,8 @@ author_profile: true
 [Burnout]({{ site.baseurl }}{% link _pages/md_burnout.md %})
 
 PK/PD
+
+CanMEDS
+
+
+
