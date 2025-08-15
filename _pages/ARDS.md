@@ -30,3 +30,14 @@ Published May 23, 2018
 N Engl J Med 2018;378:2032-2034
 DOI: 10.1056/NEJMe1802676
 VOL. 378 NO. 21
+
+Graham MR, Haberman CJ, Brewster JF, Girling LG, McManus BM, Mutch WA. Mathematical modelling to centre low tidal volumes following acute lung injury: a study with biologically variable ventilation. Respir Res. 2005 Jun 28;6(1):64. doi: 10.1186/1465-9921-6-64. PMID: 15985159; PMCID: PMC1200564.
+
+
+Goligher EC, Costa ELV, Yarnell CJ, Brochard LJ, Stewart TE, Tomlinson G, Brower RG, Slutsky AS, Amato MPB. Effect of Lowering Vt on Mortality in Acute Respiratory Distress Syndrome Varies with Respiratory System Elastance. Am J Respir Crit Care Med. 2021 Jun 1;203(11):1378-1385. doi: 10.1164/rccm.202009-3536OC. PMID: 33439781.
+
+Uttman, L., Bitzén, U., De Robertis, E., Enoksson, J., Johansson, L., & Jonson, B. (2012). Protective ventilation in experimental acute respiratory distress syndrome after ventilator-induced lung injury: a randomized controlled trial. British journal of anaesthesia, 109(4), 584–594. https://doi.org/10.1093/bja/aes230
+
+Mehta A, Dernoncourt F, Walkey A. Trend Analysis: Evolution of Tidal Volume Over Time for Patients Receiving Invasive Mechanical Ventilation. 2016 Sep 10. In: MIT Critical Data, editor. Secondary Analysis of Electronic Health Records [Internet]. Cham (CH): Springer; 2016. Chapter 18. PMID: 31314271.
+
+Charlton PH, Villarroel M, Salguiero F. Waveform Analysis to Estimate Respiratory Rate. 2016 Sep 10. In: Secondary Analysis of Electronic Health Records [Internet]. Cham (CH): Springer; 2016. Chapter 26. Available from: https://www.ncbi.nlm.nih.gov/books/NBK543644/ doi: 10.1007/978-3-319-43742-2_26
