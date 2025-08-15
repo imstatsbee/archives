@@ -55,3 +55,12 @@ https://stats.stackexchange.com/questions/574212/what-is-the-correct-bayesian-fo
 
 Henry Athiany, Anthony Wanjoya, George Orwa, Samuel Mwalili. (2020). Bayesian Analysis of Zero-Truncated Poisson Model: Application to the Self-Controlled Case-series Design. International Journal of Data Science and Analysis, 6(6), 170-182. https://doi.org/10.11648/j.ijdsa.20200606.12
 
+Irene Rocchetti, Marco Alfó, Dankmar Böhning, A regression estimator for mixed binomial capture–recapture data, Journal of Statistical Planning and Inference, Volume 145, 2014, Pages 165-178, ISSN 0378-3758, https://doi.org/10.1016/j.jspi.2013.08.010. (https://www.sciencedirect.com/science/article/pii/S0378375813001900) >>> truncated Binomial mixture model 
+
+
+Timothée Vergne, Didier Calavas, Géraldine Cazeau, Benoît Durand, Barbara Dufour, Vladimir Grosbois, A Bayesian zero-truncated approach for analysing capture–recapture count data from classical scrapie surveillance in France, Preventive Veterinary Medicine,
+Volume 105, Issues 1–2, 2012, Pages 127-135, ISSN 0167-5877, https://doi.org/10.1016/j.prevetmed.2012.02.014. (https://www.sciencedirect.com/science/article/pii/S0167587712000748)
+
+https://freerangestats.info/blog/2018/03/20/truncated-poisson - Truncated Poisson distributions in R and Stan
+
+Jane Carlisle Maxwell, Thomas W Pullum, Using a modification of the capture–recapture model to estimate the need for substance abuse treatment, Evaluation and Program Planning, Volume 24, Issue 3, 2001, Pages 257-265, ISSN 0149-7189, https://doi.org/10.1016/S0149-7189(01)00017-9. (https://www.sciencedirect.com/science/article/pii/S0149718901000179)

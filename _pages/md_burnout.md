@@ -92,3 +92,5 @@ https://criticalcareontario.ca/wp-content/uploads/2022/12/Provincial-Burnout-Sur
 
 Lilly, C. M., Oropello, J. M., Pastores, S. M., Coopersmith, C. M., Khan, R. A., Sessler, C. N., Christman, J. W., & Academic Leaders in Critical Care Medicine Task Force of the Society of Critical Care Medicine (2020). Workforce, Workload, and Burnout in Critical Care Organizations: Survey Results and Research Agenda. Critical care medicine, 48(11), 1565–1571. https://doi.org/10.1097/CCM.0000000000004552
 
+Riley MR, Mohr DC, Waddimba AC. The reliability and validity of three-item screening measures for burnout: Evidence from group-employed health care practitioners in upstate New York. Stress and Health. 2018; 34: 187–193. https://doi.org/10.1002/smi.2762
+

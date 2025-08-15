@@ -12,3 +12,14 @@ https://github.com/OHDSI/PatientLevelPrediction
 
 https://www.ohdsi.org/analytic-tools/plato-for-patient-level-prediction/
 
+Allam, A., Feuerriegel, S., Rebhan, M., & Krauthammer, M. (2021). Analyzing Patient Trajectories With Artificial Intelligence. Journal of medical Internet research, 23(12), e29812. https://doi.org/10.2196/29812
+
+https://github.com/bioinformatics-ua/PatientTM
+
+About
+Patient trajectory modeling solution for clinical outcome prediction
+Modelling Patient Trajectories Using Multimodal Information
+João Figueira Silva, Sérgio Matos - 
+https://doi.org/10.48550/arXiv.2209.04224
+
+
