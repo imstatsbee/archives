@@ -13,6 +13,12 @@ layout: single
 # icu-patch 
     - omics data analysis 
 
+# clinical trials 
+
+# medical education
+
+# performance evaluation 
+
 # R-man
 
 

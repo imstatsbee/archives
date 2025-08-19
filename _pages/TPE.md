@@ -59,4 +59,22 @@ David, S., Russell, L., Castro, P., van de Louw, A., Zafrani, L., Pirani, T., Ni
 
 Dose Escalation Study Design Example (With Results) - https://cdn.clinicaltrials.gov/documents/trainTrainer/Dose-Escalation-Design-Answer-Key.pdf
 
+https://cdn.clinicaltrials.gov/documents/trainTrainer/Dose-Escalation-Design-Fiction-Manuscript.pdf
+https://cdn.clinicaltrials.gov/large-docs/53/NCT02954653/SAP_001.pdf
+
+Pallmann, P., Wan, F., Mander, A. P., Wheeler, G. M., Yap, C., Clive, S., Hampson, L. V., & Jaki, T. (2020). Designing and evaluating dose-escalation studies made easy: The MoDEsT web app. Clinical trials (London, England), 17(2), 147–156. https://doi.org/10.1177/1740774519890146
+
+https://biostatsandtrials.wordpress.com/2020/08/18/rule-based-dose-escalation-design-phase-i-trial-3-3-design/
+
+
+https://clinicaltrials.gov/study/NCT03646188
+
+https://clinicaltrials.gov/study/NCT02296242
+
+https://clinicaltrials.gov/study/NCT01277146
+
+https://clinicaltrials.gov/study/NCT03310008
+https://clinicaltrials.gov/study/NCT02092909
+
+
 

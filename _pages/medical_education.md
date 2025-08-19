@@ -24,6 +24,12 @@ Volume 41, Issue 1, 1977, Pages 67-85, ISSN 0001-6918, https://doi.org/10.1016/0
 
 # (imprecise) Uncertainty in medical decision making 
 
+
+Bhise V, Rajan SS, Sittig DF, Morgan RO, Chaudhary P, Singh H. Defining and Measuring Diagnostic Uncertainty in Medicine: A Systematic Review. J Gen Intern Med. 2018 Jan;33(1):103-115. doi: 10.1007/s11606-017-4164-1. Epub 2017 Sep 21. PMID: 28936618; PMCID: PMC5756158.
+
+Dhaliwal GPremature closure? Not so fastBMJ Quality & Safety 2017;26:87-89.
+
+
 https://arc-yh.nihr.ac.uk/resources/blogs/what-is-uncertainty-tolerance-and-how-can-we-measure-it/
 
 Tejaswini Dhawale, Lotte M. Steuten, H. Joachim Deeg,Uncertainty of Physicians and Patients in Medical Decision Making,Biology of Blood and Marrow Transplantation,Volume 23, Issue 6,2017,Pages 865-869,
@@ -65,3 +71,23 @@ Babenko O, Lee A. Ambiguity and uncertainty tolerance and psychological needs of
 
 Kalee Lodewyk, Delane Linkiewich, Ann Lee, Oksana Babenko,From Jerseys to Scrubs: Is Sport Background Associated with Medical Students’ Tolerance of Ambiguity and Uncertainty?,Health Professions Education,
 Volume 6, Issue 4,2020,Pages 501-505,ISSN 2452-3011,https://doi.org/10.1016/j.hpe.2020.07.005.(https://www.sciencedirect.com/science/article/pii/S2452301120300687)
+
+
+
+# new 
+Marian Hickendorff, Peter A. Edelsbrunner, Jake McMullen, Michael Schneider, Kelly Trezise,
+Informative tools for characterizing individual differences in learning: Latent class, latent profile, and latent transition analysis,
+Learning and Individual Differences,
+Volume 66,
+2018,
+Pages 4-15,
+ISSN 1041-6080,
+https://doi.org/10.1016/j.lindif.2017.11.001.
+(https://www.sciencedirect.com/science/article/pii/S1041608017301863)
+
+Howell, Glen & Lacroix, Guy. (2012). Decomposing interactions using GLM in combination with the COMPARE, LMATRIX and MMATRIX subcommands in SPSS. Tutorials in Quantitative Methods for Psychology. 8. 1-22. 10.20982/tqmp.08.1.p001. 
+
+Jacques, J., Preda, C. Functional data clustering: a survey. Adv Data Anal Classif 8, 231–255 (2014). https://doi.org/10.1007/s11634-013-0158-y
+
+Den Teuling, Niek & Pauws, Steffen & Van den Heuvel, Edwin. (2021). Clustering of longitudinal data: A tutorial on a variety of approaches. 10.48550/arXiv.2111.05469. 
+

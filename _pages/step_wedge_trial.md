@@ -26,3 +26,8 @@ Li F, Hughes JP, Hemming K, Taljaard M, Melnick ER, Heagerty PJ. Mixed-effects m
 Hemming K, Taljaard M, McKenzie JE, Hooper R, Copas A, Thompson JA, Dixon-Woods M, Aldcroft A, Doussau A, Grayling M, Kristunas C, Goldstein CE, Campbell MK, Girling A, Eldridge S, Campbell MJ, Lilford RJ, Weijer C, Forbes AB, Grimshaw JM. Reporting of stepped wedge cluster randomised trials: extension of the CONSORT 2010 statement with explanation and elaboration. BMJ. 2018 Nov 9;363:k1614. doi: 10.1136/bmj.k1614. PMID: 30413417; PMCID: PMC6225589.
 
 Ambasta A, Omodon O, Herring A, Ferrie L, Pokharel S, Mehta A, Liu L, Hews-Girard J, Tam C, Taylor S, Lonergan K, Faris P, Duncan D, Woodhouse D. Repurposing the Ordering of Routine Laboratory Tests in Hospitalised Medical Patients (RePORT): results of a cluster randomised stepped-wedge quality improvement study. BMJ Qual Saf. 2023 Sep;32(9):517-525. doi: 10.1136/bmjqs-2022-015611. Epub 2023 May 10. PMID: 37164639.
+
+Hemming K, Lilford R, Girling AJ. Stepped-wedge cluster randomised controlled trials: a generic framework including parallel and multiple-level designs. Stat Med. 2015 Jan 30;34(2):181-96. doi: 10.1002/sim.6325. Epub 2014 Oct 24. PMID: 25346484; PMCID: PMC4286109.
+
+Hemming K, Haines T P, Chilton P J, Girling A J, Lilford R J. The stepped wedge cluster randomised trial: rationale, design, analysis, and reporting BMJ 2015; 350 :h391 doi:10.1136/bmj.h391
+

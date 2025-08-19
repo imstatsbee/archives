@@ -109,5 +109,8 @@ Dubinsky I, Jennings K, Greengarten M, Brans A. 360-degree physician performance
 
 CAHO 360 Degree Physician PerformToolkit2009 - https://www.scribd.com/document/373918498/CAHO-360-Degree-Physician-PerformToolkit2009
 
+A multi-source feedback program for physicians in Canada. - https://mcc.ca/mcc-360/
+https://www.longwoods.com/content/21673/healthcare-quarterly/360-degree-physician-performance-assessment
+
 
 

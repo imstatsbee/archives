@@ -1,7 +1,6 @@
 ---
 layout: single
-title: Page test
+title: ECG
 author_profile: true
 ---
 
-This is an example page2. 
